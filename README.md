@@ -4,7 +4,7 @@
 - Slash Command
 - Music Command
 -----------------------------
-    !!!Command!!!
+    !!!This Project in Beta Test!!!
 -----------------------------
     --Basic Command--
 - Help(in progress)
