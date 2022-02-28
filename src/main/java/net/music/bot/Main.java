@@ -28,7 +28,7 @@ public class Main {
         builder.addEventListeners(lavalink).setVoiceDispatchInterceptor(lavalink.getVoiceInterceptor());
         lavalink.setAutoReconnect(true);
 
-        // Lavalink Connection Local+Port, Password
+        //Connect lavalink node
         lavalink.addNode(URI.create(""),"");
         lavalink.addNode(URI.create(""),"");
 
