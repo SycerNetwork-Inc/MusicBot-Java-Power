@@ -1,21 +1,38 @@
-	Java Discord Bot (Beta)
------------------------------
-- Lavalink Bot
-- Slash Command
-- Music Command
------------------------------
-    !!!This Project in Beta Test!!!
------------------------------
-    --Basic Command--
+# Java Discord Bot (Beta)
+
+  
+
+* * *
+
+###   
+
+### Lavalink Bot
+
+### Slash Command
+
+### Music Command
+
+  
+
+  
+
+**_!!!This Project in Beta Test!!!_**
+
+  
+
+## \--Basic Command--
+
 - Help(in progress)
 - Botstat(in progress)
 
-----Music----
+##   
+
+## \----Music----
+
 - Play
 - stop
 - skip
 - karaoke
 - bassbost
 - nowplay(in progress)
-- queue(in progress)	
-	
+- queue(in progress)
